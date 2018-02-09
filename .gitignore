@@ -14,7 +14,7 @@ local.properties
 *.a
 *.orig
 *.rej
-
+*.love
 
 # Downloaded gradle wrapper
 .gradle
