@@ -4,9 +4,9 @@ android {
     compileSdkVersion 25
     buildToolsVersion "26.0.2"
     defaultConfig {
-        applicationId "org.love2d.android"
+        applicationId "com.codenamelt.vacaroxa"
         versionCode 22
-        versionName "0.10.2"
+        versionName "1.0.4"
         minSdkVersion 10
         targetSdkVersion 25
     }
