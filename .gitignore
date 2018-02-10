@@ -15,6 +15,7 @@ local.properties
 *.orig
 *.rej
 *.love
+*.apk
 
 # Downloaded gradle wrapper
 .gradle
