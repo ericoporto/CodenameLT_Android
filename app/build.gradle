@@ -5,8 +5,8 @@ android {
     buildToolsVersion "26.0.2"
     defaultConfig {
         applicationId "com.codenamelt.vacaroxa"
-        versionCode 22
-        versionName "1.0.4"
+        versionCode 105
+        versionName "1.0.5"
         minSdkVersion 14
         targetSdkVersion 25
     }
